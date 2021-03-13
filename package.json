@@ -1,0 +1,18 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "Endterm project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "simple",
+    "routing",
+    "using",
+    "node",
+    "js"
+  ],
+  "author": "Khalymbetova Kymbat",
+  "license": "ISC"
+}
